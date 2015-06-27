@@ -12,9 +12,9 @@ Truncates text of specified HTML elements by number of lines.
 
 == Description ==
 
-Do you have too long elements sticking out and breaking the web site layout? 
+Do you have too long text elements sticking out and breaking the web site layout? 
 
-If you have such a problem, fix their string length by specifing the elements with CSS selectors.
+If you have such a problem, fix their length by specifing the elements with CSS selectors.
 
 Nots: you need a basic understanding of CSS (jQuery) selectors to use this plugin.
   
