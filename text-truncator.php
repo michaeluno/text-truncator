@@ -5,7 +5,7 @@
 	Description:    Truncates text of specified HTML elements by number of lines.
 	Author:         Michael Uno (miunosoft)
 	Author URI:     http://michaeluno.jp
-	Version:        1b03
+	Version:        1
 */
 
 /**
@@ -15,7 +15,7 @@
  */
 class TextTruncator_Registry_Base {
  
-	const VERSION        = '1b03';    // <--- DON'T FORGET TO CHANGE THIS AS WELL!!
+	const VERSION        = '1';    // <--- DON'T FORGET TO CHANGE THIS AS WELL!!
 	const NAME           = 'Text Truncator';
 	const DESCRIPTION    = 'Truncates text of specified HTML elements by number of lines.';
 	const URI            = 'http://en.michaeluno.jp/text-truncator';
@@ -181,7 +181,6 @@ final class TextTruncator_Registry extends TextTruncator_Registry_Base {
 	
 }
 TextTruncator_Registry::setUp( __FILE__ );
-
 
 include( dirname( __FILE__ ).'/include/library/admin-page-framework/admin-page-framework.php' );
 include( dirname( __FILE__ ).'/include/class/boot/TextTruncator_Bootstrap.php' );

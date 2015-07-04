@@ -1,10 +1,10 @@
 === Text Truncator ===
 Contributors:       Michael Uno, miunosoft
 Donate link:        http://en.michaeluno.jp/donate
-Tags:               truncate, truncator
+Tags:               truncate, truncator, appearance, text 
 Requires at least:  3.3
 Tested up to:       4.2.2
-Stable tag:         1.0
+Stable tag:         1
 License:            GPLv2 or later
 License URI:        http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ Do you have too long text elements sticking out and breaking the web site layout
 
 If you have such a problem, fix their length by specifying the elements with CSS selectors.
 
-Nots: you need a basic understanding of CSS (jQuery) selectors to use this plugin.
+Notes: you need a basic understanding of CSS (jQuery) selectors to use this plugin.
   
 = Supported Language =
 * English
@@ -39,5 +39,5 @@ Nots: you need a basic understanding of CSS (jQuery) selectors to use this plugi
 
 == Changelog ==
 
-= 1 =
+= 1 - 07/05/2015 =
 - Released. 
